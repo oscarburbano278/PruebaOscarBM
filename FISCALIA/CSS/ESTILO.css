@@ -1,0 +1,132 @@
+/* CSS Document */
+
+
+body
+{
+	background-image: url(../files/fondo.png);
+	background-repeat: repeat-x;
+}
+
+
+#cabecera
+{
+	background-image: url(../files/cabecera.png);
+	background-repeat: no-repeat;
+	width: 695px;
+	height: 234px;
+	margin-bottom: auto;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+#texto_arriba
+{
+	float: left;
+	height: 84px;
+	width: 500px;
+	margin-left: 180px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #000000;
+}
+
+
+#texto_medio
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #666666;
+	float: right;
+	height: 166px;
+	width: 290px;
+	text-align: right;
+}
+
+H2
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	color: #0033CC;
+	margin-bottom: 0px;
+}
+
+.txt
+{
+	height: 16px;
+	width: 78px;
+}
+
+
+#forms
+{
+
+}
+
+#contenido
+{
+	margin: auto;
+	height: 300px;
+	width: 695px;
+	background-color: #FFFFFF;
+}
+
+#imagen
+{
+	height: 277px;
+	width: 600px;
+	float: right;
+	background-image: url(../files/b.png);
+	background-repeat: no-repeat;
+}
+
+#menu
+{
+	float: left;
+	height: 270px;
+	width: 78px;
+	cursor:pointer;	
+}
+
+#contenido_center
+{
+	height: 800px;
+	width: 600px;
+	float: right;
+	background-color: #FFFFFF;
+}
+
+#izquierda
+{
+	float: left;
+	height: 300px;
+	width: 100px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0066CC;
+}
+
+H6
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;	
+}
+#a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+#a.hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-decoration: underline;
+}
